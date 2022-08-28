@@ -5,4 +5,5 @@
 ### 01_02_Dashboard
 ![Homework_01_02_Dashboardpng](https://user-images.githubusercontent.com/111882594/187073537-a6a98284-89ac-4b7b-859c-fd0e3413890a.png)
 [Homework_01_02_Dashboard.pdf](https://github.com/rocstedam/MOMOTOV-ANDREY/files/9439615/Homework_01_02_Dashboard.pdf)
+
 [Homework_01_02_Dashboard.xlsx](https://github.com/rocstedam/MOMOTOV-ANDREY/blob/369ce698ee2641dbc5b0ec39f064c4efdc83ba0b/DE-101/Module1/Homework_01_02_Dashboard.xlsx)
