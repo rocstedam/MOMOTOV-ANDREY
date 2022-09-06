@@ -1,5 +1,5 @@
 # HOMEWORK 2
-### SQL training
+### 02_01_SQL training
 select
 extract('year'from o.order_date),  
 count(order_id) as number_orders,
