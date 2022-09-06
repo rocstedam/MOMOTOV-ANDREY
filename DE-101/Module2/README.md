@@ -1,4 +1,4 @@
-# HOMEWORK 2
+# HOMEWORK_02
 ### 02_01_SQL training
 select
 extract('year'from o.order_date),  
